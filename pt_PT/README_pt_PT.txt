@@ -1,10 +1,10 @@
 ﻿This is a Portuguese (Portugal) dictionary for Hunspell:
 
-Copyright (C) 2006-2009  Josй Joгo de Almeida <jj@di.uminho.pt> , 
+Copyright (C) 2006-2012  José João de Almeida <jj@di.uminho.pt> , 
 	Rui Vilela <ruivilela@di.uminho.pt> ,
-	Alberto Simхes <ambs@di.uminho.pt>
+	Alberto Simões <ambs@di.uminho.pt>
 
-Dep. Informбtica, Universidade do Minho
+Dep. Informática, Universidade do Minho
 Portugal
 
 All dictionary files and associated programs are currently covered by
@@ -29,4 +29,4 @@ our site for details.
 Latest versions, suggestions, automatic install, informations at
        http://natura.di.uminho.pt/
 
-#This readme will change on next release
+
