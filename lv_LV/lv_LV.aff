@@ -45,7 +45,7 @@
 #        _+!@ $%^&*()abcdefghijklmnopqrstuvwxyz
 # Used:  --------------++++++------+++++++---++
 
-SET ISO8859-13
+SET UTF-8
 TRY ianseātumpojšrkdīzlēvbgcķūņļčžfģhASMVLDIKERBGJZTNPHUOFCĀĶŽĒĢŠĪŪČŅĻ
 
 PFX + Y 1
