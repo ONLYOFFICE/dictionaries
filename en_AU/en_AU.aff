@@ -24,7 +24,7 @@ MIDWORD '-
 BAD ~
 ########################################################
 
-SET ISO8859-1
+SET UTF-8
 TRY esiaénrtolcdugmfphbyvkw-'.zqjxSNRTLCGDMFPHBEAUYOIVKWóöâôZQJXÅçèîêàïüäñ
 NOSUGGEST !
 # ordinal numbers
