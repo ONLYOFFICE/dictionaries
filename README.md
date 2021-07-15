@@ -5,7 +5,7 @@ The dictionaries of various languages used for spellchecking in [ONLYOFFICE Docu
 
 Official website: [http://www.onlyoffice.com](http://onlyoffice.com "http://www.onlyoffice.com")
 
-Code repository: [https://github.com/ONLYOFFICE/core](https://github.com/ONLYOFFICE/сore "https://github.com/ONLYOFFICE/core")
+Code repository: [https://github.com/ONLYOFFICE/dictionaries](https://github.com/ONLYOFFICE/dictionaries "https://github.com/ONLYOFFICE/dictionaries")
 
 SaaS version: [https://www.onlyoffice.com/cloud-office.aspx](https://www.onlyoffice.com/cloud-office.aspx "https://www.onlyoffice.com/cloud-office.aspx")
 
