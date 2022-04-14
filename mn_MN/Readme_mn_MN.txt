@@ -1,11 +1,9 @@
 Туршилтын хувилбар болох ойролцоогоор 2 сая үгийн сантай толио гаргаснаас хойш
-даруй 13 жил өнгөрчээ. Энэ удаагийн шинэчлэлээр 40 мянга орчим, тэдгээрийн
-хувилал болох 400 сая гаруй үгийн санг бэлтгэлээ.
+даруй 14 жил өнгөрчээ. Энэ удаагийн шинэчлэлээр 45 мянга орчим, тэдгээрийн
+хувилал болох 450 сая гаруй үгийн санг бэлтгэлээ.
 
-Энэхүү толийн онцлог гэвэл эрдэмтэн Ц. Дамдинсүрэн нарын 'Монгол үсгийн дүрмийн
-толь', 'Монгол хэлний хадмал толь', 'Монгол хэлний их тайлбар толь' болон
-'Монгол хэлний зөв бичих дүрмийн журамласан толь' зэрэг бүтээлүүдийг тусгасан
-болно.
+Энэхүү толины онцлог гэвэл академич Ц. Дамдинсүрэн нарын 'Монгол үсгийн дүрмийн
+толь' бүтээлийг баримтлан туурвисан болно.
 
 Өөрчлөн тараахыг хориглоно. Зохиогчийн эрх хуулиар хамгаалагдсан.
 
@@ -15,7 +13,7 @@
 
 ---
 
-Copyright 2020-present, Batmunkh Dorjgotov <bataak at gmail tseg com>
+Copyright 2020-2022, Batmunkh Dorjgotov <bataak at gmail tseg com>
 
 Special thanks to Guntevsuren Nanzad for your great professional assistance.
 
@@ -31,5 +29,5 @@ This work has the LPPL maintenance status maintained.
 
 The Current Maintainer of this work is Batmunkh Dorjgotov.
 
-This work consists of the files mn_MN.aff, mn_MN.dic and
+This work consists of the files mn_MN.aff, mn_MN.dic, mn_MN.zip and
 README_mn_MN.txt.
