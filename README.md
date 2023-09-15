@@ -1,5 +1,5 @@
 ## Dictionaries
-The dictionaries of various languages used for spellchecking in [ONLYOFFICE Document Server][2] and [ONLYOFFICE Desktop Editors][4].
+The dictionaries of various languages used for spellchecking and hyphenation in [ONLYOFFICE Document Server][2] and [ONLYOFFICE Desktop Editors][4].
 
 ## Project Information
 
