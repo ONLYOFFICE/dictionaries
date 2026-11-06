@@ -2,7 +2,7 @@ Serbian spelling and hyphenation dictionaries for Hunspell and Hyphen,
 Cyrillic (sr_Cyrl_RS) and Latin (sr_Latn_RS). Both hold ekavian and ijekavian
 forms, so they also serve Bosnia and Herzegovina, and Montenegro.
 
-Version 1.1 (2026-11) of https://github.com/sociolog/serbian-dictionaries,
+Version 1.1.1 (2026-11) of https://github.com/sociolog/serbian-dictionaries,
 where CHANGELOG.md and corrections.tsv list every change.
 
 Spelling (*.aff, *.dic)
