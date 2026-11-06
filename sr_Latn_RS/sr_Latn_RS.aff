@@ -1,8 +1,27 @@
 SET UTF-8
 
-KEY ljnjertzuiopšđž|asdfghjklčć|sdžcvbnm|ljanjsedrftghujikolpč|azsdždcfvgbhdžnjmk|ščć|đćž
+KEY ljnjertzuiopšđž|asdfghjklčć|džcvbnm|ljanjsedrftghujikolpč|azsdždcfvgbhdžnjmk|ščć|đćž
 FLAG num
 WORDCHARS .
+MAP 8
+MAP cčć
+MAP sš
+MAP zž
+MAP dđ
+MAP CČĆ
+MAP SŠ
+MAP ZŽ
+MAP DĐ
+TRY aioenrtsklvjupdmzbcgčćšfžhđ
+REP 8
+REP dj đ
+REP dz dž
+REP Dj Đ
+REP DJ Đ
+REP Dz Dž
+REP DZ DŽ
+REP ije je
+REP je ije
 
 SFX 1 Y 7
 SFX 1 a a

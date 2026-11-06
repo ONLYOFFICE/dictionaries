@@ -1,15 +1,24 @@
-This product is made available subject to the terms of GNU Lesser General Public License Version 3. A copy of the LGPL license can be found at http://www.openoffice.org/license.html
+Serbian spelling and hyphenation dictionaries for Hunspell and Hyphen,
+Cyrillic (sr_Cyrl_RS) and Latin (sr_Latn_RS). Both hold ekavian and ijekavian
+forms, so they also serve Bosnia and Herzegovina, and Montenegro.
 
-------------------------------------
-Third Party Code. Additional copyright notices and license terms applicable to portions of the Software are set forth in the THIRDPARTYLICENSEREADME.html file.
+Version 1.1.1 (2026-11) of https://github.com/sociolog/serbian-dictionaries,
+where CHANGELOG.md and corrections.tsv list every change.
 
-------------------------------------
-All trademarks and registered trademarks mentioned herein are the property of their respective owners.  
+Spelling (*.aff, *.dic)
+  Milutin Smiljanić: the rule-based Serbian dictionary in LibreOffice since 2019.
+  Goran Rakić: earlier dict-sr / hunspell-sr, with contributions by Miloš Popović,
+  Aleksandar Urošević, Nikola Smolenski, Romeo Mlinar and others.
+  This version: Mile Vukajlović (@sociolog) and @VladimirCeric.
+  Licence: your choice of GNU LGPL 3 or later, MPL 2 or later, or GNU GPL 3 or later.
 
-------------------------------------
-Copyright 2002,2008 Sun Microsystems, Inc.
+Hyphenation (hyph_*.dic)
+  Dejan Muhamedagić: Serbian TeX patterns 2.02 (1990, 2008), adapted for Hyphen by
+  Goran Rakić, as shipped in LibreOffice. The Latin file adds 37 patterns, see
+  https://github.com/hyphenation/tex-hyphen/issues/74
+  Licence: GNU LGPL 2.1 or later.
 
-This product has been created with contributions from the OpenOffice.org community, of which Sun Microsystems Inc. is the founding member. OpenOffice.org acknowledges all community members, especially those mentioned at http://www.openoffice.org/welcome/credits.html.
+The text of the GNU LGPL 3 follows.
 
 ------------------------------------
 
