@@ -3,7 +3,9 @@ Cyrillic (sr_Cyrl_RS) and Latin (sr_Latn_RS). Both hold ekavian and ijekavian
 forms, so they also serve Bosnia and Herzegovina, and Montenegro.
 
 Version 1.1.1 (2026-11) of https://github.com/sociolog/serbian-dictionaries,
-where CHANGELOG.md and corrections.tsv list every change.
+where CHANGELOG.md and corrections.tsv list every change, except that
+трибунат, ократак, јучерањи, ахронолошки and јабукар stay:
+Milutin Smiljanić asked to keep them, and version 1.2 has them back.
 
 Spelling (*.aff, *.dic)
   Milutin Smiljanić: the rule-based Serbian dictionary in LibreOffice since 2019.
